@@ -1,0 +1,1116 @@
+мая 24, 2022 10:56:09 PM TCPLogger getInfoMessage
+INFO: Operation performed: The connection is established!
+
+мая 24, 2022 10:56:09 PM TCPLogger getInfoMessage
+INFO: Operation performed: The connection is established!
+
+мая 24, 2022 10:56:09 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:10 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:10 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:10 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:11 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:11 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:11 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:11 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:11 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 2 has been sent!
+
+мая 24, 2022 10:56:11 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:12 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:12 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:12 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:12 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:12 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:12 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:12 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 2 has been sent!
+
+мая 24, 2022 10:56:12 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:12 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 4 has been sent!
+
+мая 24, 2022 10:56:12 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 has been delivered!
+
+мая 24, 2022 10:56:12 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:12 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 5 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 3 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 5 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 1 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 2 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 4 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 has been delivered!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 6 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 has been delivered!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 7 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 6 has been delivered!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 8 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 7 has been delivered!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:13 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 9 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 1 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 2 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 7 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 10 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 has been delivered!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 11 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 6 has been delivered!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:14 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 9 has been delivered!
+
+мая 24, 2022 10:56:15 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:15 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 14 has been sent!
+
+мая 24, 2022 10:56:15 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 10 has been delivered!
+
+мая 24, 2022 10:56:15 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:15 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 15 has been sent!
+
+мая 24, 2022 10:56:15 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 13 has been delivered!
+
+мая 24, 2022 10:56:15 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:15 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 16 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 6 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 2 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 3 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 7 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 2 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 9 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 14 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 16 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 5 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 8 has been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 13 has been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 10 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 15 has been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 4 has been delivered!
+
+мая 24, 2022 10:56:16 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 9 has been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 2 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 8 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 2 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 6 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 15 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 4 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 18 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 2 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 3 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 1 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 5 has been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 2 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 17 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 14 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 16 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 13 has been sent!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 12 has been delivered!
+
+мая 24, 2022 10:56:17 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 10 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 2 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 6 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 2 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 18 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 4 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 2 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 11 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 4 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 5 has been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 has been delivered!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 10 has been sent!
+
+мая 24, 2022 10:56:18 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 9 has been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 2 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 2 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 15 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 18 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 4 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 3 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 2 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 19 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 14 has been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 17 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 17 has been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 18 has been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 16 has been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 20 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 11 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 16 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 15 has been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 5 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 4 has been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 13 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 12 has been delivered!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 12 has been sent!
+
+мая 24, 2022 10:56:19 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 11 has been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 2 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 2 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 15 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 4 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 18 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 2 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 3 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number -1 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 hasn't been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 14 has been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 17 has been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 1 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 0 has been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 19 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 18 has been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 2 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 1 has been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 17 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 16 has been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 9 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 20 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 11 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 10 has been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 14 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 13 has been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 16 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 15 has been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 5 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 4 has been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 13 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 12 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 11 has been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 4 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 3 has been delivered!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: ACK with a number 10 has been sent!
+
+мая 24, 2022 10:56:20 PM TCPLogger getInfoMessage
+INFO: Operation performed: A package with a number 9 has been delivered!
+
